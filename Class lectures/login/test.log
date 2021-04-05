@@ -1,0 +1,13 @@
+INFO:root:I am going to start my Program
+WARNING:root:This is the first warnig of my program , so modify it
+ERROR:root:This is the message for the errors.
+INFO:root:I am going to start my Program
+WARNING:root:This is the first warnig of my program , so modify it
+ERROR:root:This is the message for the errors.
+ERROR:root:This is the message for the errors.
+ERROR:root:error has occured
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "<ipython-input-20-c96e1f2df854>", line 3, in test
+    div = a/b
+ZeroDivisionError: division by zero

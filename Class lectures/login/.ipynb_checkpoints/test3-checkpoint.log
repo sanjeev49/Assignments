@@ -1,0 +1,5 @@
+INFO:root:The user input is [1, 2, 3, 4, 5]
+INFO:root:The user input is [1, 2, 3, 4]
+INFO:root:The user input is [1, 2, 3]
+INFO:root:The user input is 1
+INFO:root:The sum of given number is 1
