@@ -1,0 +1,10 @@
+ERROR:root:name 'file_name' is not defined
+ERROR:root:name 'file_name' is not defined
+ERROR:root:[Errno 2] No such file or directory: 'dtxt'
+ERROR:root:name 'file_name' is not defined
+ERROR:root:[Errno 2] No such file or directory: 'dtxt'
+ERROR:root:name 'file_name' is not defined
+ERROR:root:[Errno 2] No such file or directory: 'd.txt'
+ERROR:root:'student2' object has no attribute 'data'
+ERROR:root:'list' object has no attribute 'close'
+ERROR:root:name 'file_name' is not defined
